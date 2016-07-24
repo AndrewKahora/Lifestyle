@@ -20,8 +20,8 @@ a{
     font-size: 20px;
     color: #727243;
     background-size: 100%;
-    width: 1300px;
-    height: 350px;
+    width:100%;
+    height: auto;
 }
 .primary-nav{
     display: inline-block;
@@ -30,12 +30,12 @@ a{
 }
 .logo{
     float: left;
-    padding-left: 56px;
+    padding-left:34px;
 
 }
 
 .primary-nav ul{
-    float: left;
+    float: right;
 
 }
 .nav primary-nav{
