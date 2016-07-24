@@ -28,3 +28,28 @@ a{
     vertical-align: bottom;
 
 }
+.logo{
+    float: left;
+    padding-left: 56px;
+
+}
+
+.primary-nav ul{
+    float: left;
+
+}
+.nav primary-nav{
+    float: 50% left;
+}
+.primary-nav li {
+    text-align: center;
+    list-style-type: none;
+    padding-top: 65px;
+    height: 2px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline-block;
+    margin-left: 3px;
+    color: #c1c174;
+    margin: 13px;
+
