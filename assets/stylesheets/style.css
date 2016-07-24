@@ -1,0 +1,30 @@
+.index1{
+    font-family: 'EB Garamond', serif;
+/*    background-image: url(../images/glare_circles_shadow_background_faded_47617_3840x2160.jpg); */
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+a{
+    text-decoration: none;
+    color: beige;
+}
+.title{
+    font-family: font-family: 'Playfair Display', serif;
+    padding-left: px;
+    color: aqua;
+
+}
+
+.header{
+    font-size: 40px;
+    color: #727243;
+    background-size: 100%;
+    width: 1300px;
+    height: 350px;
+}
+.primary-nav{
+    display: inline-block;
+    vertical-align: bottom;
+
+}
