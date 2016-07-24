@@ -52,4 +52,13 @@ a{
     margin-left: 3px;
     color: #c1c174;
     margin: 13px;
+}
+a{
+   text-decoration: none;
+    color: bisque;
 
+}
+.parg{
+    color: #142727;
+    font-size: 33px;
+}
