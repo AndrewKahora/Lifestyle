@@ -29,17 +29,16 @@ a{
 
 }
 .logo{
-    float: left;
-    padding-left:34px;
+    float: 50% left;
 
 }
 
 .primary-nav ul{
-    float: right;
+    float: 50% right;
 
 }
 .nav primary-nav{
-    float: 50% left;
+    float: 50% right;
 }
 .primary-nav li {
     text-align: center;
